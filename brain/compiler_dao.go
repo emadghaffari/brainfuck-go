@@ -1,4 +1,4 @@
-package main
+package brain
 
 type InsType byte
 
